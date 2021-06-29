@@ -1,7 +1,7 @@
 {
-  "name": "mochachai",
+  "name": "@cytusalive/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A clone of the Lodash library for Lighthouse Labs learning",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/cytusalive/lotide.git"
   },
-  "author": "",
+  "author": "Minghui Tan <andy.stoneycreek@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cytusalive/lotide/issues"
